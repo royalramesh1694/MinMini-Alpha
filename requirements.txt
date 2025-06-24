@@ -17,7 +17,8 @@ pymongo==4.3.2
 python-dotenv
 pymediainfo
 prettytable
-git+https://github.com/Itz-fork/py-trans.git
+#git+https://github.com/Itz-fork/py-trans.git
+py-trans
 reportlab
 svglib
 speedtest-cli==2.1.3
